@@ -54,7 +54,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
-
+        cout << "Hrafnkell Baldursson" << endl;
 	return 0;
 }
 
